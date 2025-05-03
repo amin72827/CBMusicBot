@@ -7,7 +7,7 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 que = {}
-admins = {}
+admins = {7652416346}
 SESSION_NAME = getenv("SESSION_NAME", "session")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_NAME = getenv("BOT_NAME", "ᴄʏʙᴇʀ ᴍᴜsɪᴄ ʙᴏᴛ")
